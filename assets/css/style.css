@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    line-height: 30px;
+}
+
+/* Text */
+
+.text {
+    text-align: center;
+}
+
+/* Container */
+
+.container {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+
+ 
+}
+
+.container1 {
+    box-shadow: 1px 10px 10px 10px rgb(146, 145, 145);
+    width: 22%;
+    padding: 10px;
+   
+
+}
+
+.container2 {
+    box-shadow: 1px 10px 10px 10px rgb(146, 145, 145);
+    width: 22%;
+    padding: 10px;
+    
+}
+
+.container3 {
+    box-shadow: 1px 10px 10px 10px rgb(146, 145, 145);
+    width: 22%;
+    padding: 10px;
+}
+
+/* Icon */
+
+.icon { 
+    color: rgb(204, 134, 134);
+    width: 100%;
+    
+
+
+}
